@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table should show customer details if there are any 1`] = `
+<div
+  class="container"
+  data-testid="custtable-1"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="col"
+    />
+    <div
+      class="col"
+    >
+      <h4
+        style="padding-top: 20px;"
+      >
+         Customer Table
+      </h4>
+      <p>
+        No data present Please Add Customer Details By Clicking Following Button
+      </p>
+      <button
+        class="secondary btn btn-primary"
+        data-testid="close-1"
+        type="button"
+      >
+        Add New Customer
+      </button>
+      <br />
+      <br />
+      
+    </div>
+    <div
+      class="col"
+    />
+  </div>
+</div>
+`;
